@@ -164,18 +164,6 @@ This project demonstrates:
 - ✅ **User Input** - scanf and validation
 - ✅ **Control Flow** - Loops and conditionals
 
-## 🚀 Future Enhancements
-
-Want to level up this game? Here are some ideas:
-
-- 🤖 **Single Player Mode** - Add AI opponent with minimax algorithm
-- 🎨 **Colored Output** - Use ANSI colors for better visuals
-- 💾 **Score Tracking** - Keep track of wins/losses/draws
-- 🔄 **Replay Option** - Play multiple rounds without restarting
-- 📊 **Difficulty Levels** - Easy, Medium, Hard AI
-- 🌐 **GUI Version** - Create graphical interface using SDL or GTK
-- 📝 **Save/Load Games** - File I/O for game persistence
-- 🎵 **Sound Effects** - Add audio feedback
 
 ## 🎓 Concepts Covered
 
