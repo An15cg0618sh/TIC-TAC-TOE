@@ -102,7 +102,7 @@ You need a C compiler installed on your system:
 ```
 tic-tac-toe/
 │
-├── tictactoe.c          # Main game source code
+├── game.c          # Main game source code
 
 ```
 
